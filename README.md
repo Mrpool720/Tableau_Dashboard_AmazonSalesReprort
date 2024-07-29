@@ -13,3 +13,5 @@ factors.
 5. Geographical Analysis: Explore the geographical distribution on of sales, focusing on states and cities.
 6. Business Insights: Provide actionable insights and recommendations based on the analysis to optimize sales 
 strategies, improve customer satisfaction on, and enhance overall business performance.
+
+[Tableau Link](https://public.tableau.com/views/Book1_17218351319520/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
